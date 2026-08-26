@@ -1,5 +1,13 @@
 -- 04_regional_performance.sql
--- Core regional performance view used by the dashboard and weekly stand-ups.
+-- Feeds the Executive page: weekly revenue, AOV, units per transaction.
+--
+-- How to read the output
+--   AOV = revenue / transactions. If AOV is low and transactions are not,
+--   the region has a mix/offer problem, not a traffic problem.
+--   units_per_txn falling with AOV often means customers trade down, not walk away.
+--
+-- Grain: region x channel x week.
+-- Join: fact_sales to dim_store for region (never use free-text region on the fact).
 
 WITH sales_agg AS (
     SELECT
