@@ -1,0 +1,301 @@
+customer_id,first_purchase_date,acquisition_channel,loyalty_tier,primary_region
+C00001,2025-01-22,Loyalty,Silver,Southeast
+C00002,2024-06-23,Loyalty,None,Northeast
+C00003,2024-12-28,Search,None,Northeast
+C00004,2024-06-20,Email,None,Southeast
+C00005,2025-03-02,Paid Social,Gold,Southeast
+C00006,2024-10-16,Search,None,Southeast
+C00007,2025-02-21,Search,Silver,Southeast
+C00008,2024-06-19,Organic,Silver,Northeast
+C00009,2024-04-17,Email,Silver,Midwest
+C00010,2025-01-04,Email,None,West
+C00011,2024-11-30,Loyalty,Gold,Northeast
+C00012,2024-12-08,Email,Silver,Southeast
+C00013,2025-02-24,Loyalty,Member,Midwest
+C00014,2024-04-10,Organic,None,West
+C00015,2024-07-21,Search,Silver,Southeast
+C00016,2024-09-06,Email,Silver,Northeast
+C00017,2025-01-06,Paid Social,Member,Southeast
+C00018,2024-10-23,Email,Member,Midwest
+C00019,2025-05-06,Paid Social,None,Southeast
+C00020,2025-04-25,Loyalty,Silver,West
+C00021,2024-07-16,Loyalty,Silver,Southeast
+C00022,2025-01-30,Search,Gold,Southeast
+C00023,2024-07-14,Loyalty,Silver,West
+C00024,2025-06-03,Search,Silver,Southeast
+C00025,2024-05-10,Search,None,Northeast
+C00026,2025-05-15,Loyalty,Member,West
+C00027,2024-12-31,Loyalty,Gold,West
+C00028,2024-11-26,Email,None,Northeast
+C00029,2025-02-13,Organic,Silver,Midwest
+C00030,2024-04-27,Email,Member,West
+C00031,2024-03-02,Organic,Silver,Southeast
+C00032,2024-11-15,Organic,Silver,Southeast
+C00033,2024-05-18,Email,Member,Northeast
+C00034,2025-01-01,Email,None,Northeast
+C00035,2025-06-19,Email,Silver,Southeast
+C00036,2024-03-30,Email,None,Northeast
+C00037,2025-03-10,Search,None,Southeast
+C00038,2024-05-05,Paid Social,Member,Midwest
+C00039,2024-11-26,Organic,Gold,Southeast
+C00040,2025-06-19,Search,Member,Midwest
+C00041,2024-09-21,Organic,Silver,West
+C00042,2025-06-04,Search,None,Southeast
+C00043,2024-06-24,Loyalty,None,Southeast
+C00044,2024-12-27,Email,None,Northeast
+C00045,2024-06-26,Loyalty,None,Midwest
+C00046,2024-04-06,Search,Silver,West
+C00047,2024-06-18,Search,Gold,Southeast
+C00048,2025-04-06,Search,Gold,Southeast
+C00049,2024-04-18,Loyalty,Gold,Midwest
+C00050,2024-10-03,Email,None,Northeast
+C00051,2024-04-01,Email,Silver,Northeast
+C00052,2024-07-06,Loyalty,Gold,Southeast
+C00053,2024-10-03,Loyalty,Gold,Southeast
+C00054,2025-05-22,Organic,Gold,Northeast
+C00055,2024-03-26,Paid Social,None,Northeast
+C00056,2025-06-18,Paid Social,Member,Southeast
+C00057,2024-09-25,Search,Member,West
+C00058,2025-06-06,Loyalty,Gold,Northeast
+C00059,2024-09-16,Email,Gold,Midwest
+C00060,2024-10-03,Paid Social,Gold,Southeast
+C00061,2024-06-06,Email,None,Northeast
+C00062,2025-03-18,Email,None,West
+C00063,2024-11-13,Organic,Member,Northeast
+C00064,2025-07-05,Search,Member,Northeast
+C00065,2024-12-30,Loyalty,Member,West
+C00066,2024-05-01,Organic,Member,Northeast
+C00067,2025-01-12,Loyalty,Silver,Midwest
+C00068,2024-06-13,Paid Social,Silver,Southeast
+C00069,2024-07-14,Email,Silver,West
+C00070,2024-08-09,Organic,None,Northeast
+C00071,2024-10-21,Paid Social,None,Northeast
+C00072,2024-12-01,Loyalty,Silver,Southeast
+C00073,2025-06-21,Email,None,Southeast
+C00074,2024-09-06,Email,Gold,Midwest
+C00075,2025-01-08,Organic,None,Midwest
+C00076,2025-06-21,Paid Social,Member,Midwest
+C00077,2024-04-29,Organic,Member,Midwest
+C00078,2024-07-23,Paid Social,Silver,Southeast
+C00079,2025-02-15,Paid Social,Silver,West
+C00080,2024-07-07,Organic,None,Northeast
+C00081,2025-01-19,Search,Silver,Northeast
+C00082,2024-03-02,Email,Member,Midwest
+C00083,2024-05-22,Paid Social,Gold,Northeast
+C00084,2024-04-27,Loyalty,Member,Northeast
+C00085,2025-05-02,Email,Member,West
+C00086,2024-05-05,Loyalty,Silver,Northeast
+C00087,2025-06-04,Email,Member,Northeast
+C00088,2024-08-29,Paid Social,Gold,Southeast
+C00089,2025-06-17,Organic,Member,Southeast
+C00090,2025-05-26,Email,Member,Midwest
+C00091,2025-04-05,Organic,Member,Midwest
+C00092,2024-05-21,Paid Social,None,West
+C00093,2025-05-21,Loyalty,Gold,Southeast
+C00094,2024-06-11,Paid Social,Gold,Midwest
+C00095,2024-08-04,Paid Social,Member,Southeast
+C00096,2024-03-13,Paid Social,Gold,Midwest
+C00097,2024-07-21,Organic,Silver,Midwest
+C00098,2025-01-23,Search,Silver,Northeast
+C00099,2024-04-29,Organic,Silver,Southeast
+C00100,2024-12-23,Organic,Silver,Northeast
+C00101,2024-04-25,Search,Silver,Midwest
+C00102,2024-10-10,Paid Social,None,West
+C00103,2025-06-04,Search,Silver,Northeast
+C00104,2025-02-26,Search,Member,Midwest
+C00105,2024-10-07,Loyalty,Silver,Midwest
+C00106,2025-02-03,Paid Social,Silver,Midwest
+C00107,2025-02-05,Email,Gold,Midwest
+C00108,2024-12-09,Loyalty,Gold,West
+C00109,2025-02-10,Paid Social,Member,Midwest
+C00110,2024-09-24,Search,None,Midwest
+C00111,2024-07-25,Loyalty,Silver,West
+C00112,2024-10-13,Search,Member,West
+C00113,2025-04-11,Organic,Member,Northeast
+C00114,2024-07-24,Search,Silver,Northeast
+C00115,2025-04-24,Organic,Member,Midwest
+C00116,2024-06-24,Paid Social,Member,Northeast
+C00117,2024-03-24,Email,Gold,Northeast
+C00118,2024-10-20,Email,Member,West
+C00119,2024-11-09,Email,Member,Northeast
+C00120,2025-06-01,Paid Social,None,West
+C00121,2024-06-21,Loyalty,Gold,Northeast
+C00122,2024-12-11,Email,None,West
+C00123,2024-05-08,Paid Social,Silver,West
+C00124,2025-01-08,Paid Social,Gold,West
+C00125,2025-06-03,Loyalty,Gold,West
+C00126,2024-07-11,Paid Social,Silver,West
+C00127,2025-01-15,Email,Gold,Northeast
+C00128,2025-03-01,Email,Silver,Midwest
+C00129,2024-08-11,Organic,None,Southeast
+C00130,2024-05-17,Email,Member,Southeast
+C00131,2024-04-02,Email,Silver,West
+C00132,2024-09-29,Loyalty,Gold,West
+C00133,2025-06-07,Paid Social,None,West
+C00134,2024-10-31,Loyalty,Silver,Midwest
+C00135,2025-03-21,Email,Gold,Southeast
+C00136,2024-11-05,Loyalty,Gold,West
+C00137,2024-03-15,Email,Gold,Southeast
+C00138,2025-05-05,Search,Member,Northeast
+C00139,2025-06-08,Email,None,Northeast
+C00140,2025-01-24,Search,Gold,Southeast
+C00141,2024-03-26,Email,Silver,Southeast
+C00142,2024-10-19,Email,Gold,Midwest
+C00143,2025-03-21,Organic,Gold,Midwest
+C00144,2025-05-02,Loyalty,None,Northeast
+C00145,2025-07-01,Email,None,Northeast
+C00146,2025-03-22,Loyalty,Member,Southeast
+C00147,2025-05-04,Loyalty,Member,Southeast
+C00148,2024-05-04,Search,None,Southeast
+C00149,2024-10-25,Paid Social,Silver,Southeast
+C00150,2025-01-05,Paid Social,None,Southeast
+C00151,2025-07-07,Email,None,Midwest
+C00152,2024-12-20,Paid Social,Gold,West
+C00153,2025-06-26,Paid Social,None,Southeast
+C00154,2024-04-22,Paid Social,Silver,Northeast
+C00155,2025-04-12,Organic,None,Midwest
+C00156,2024-11-28,Search,Silver,Northeast
+C00157,2024-11-15,Paid Social,None,West
+C00158,2025-04-26,Search,Gold,Midwest
+C00159,2025-01-20,Organic,Gold,Southeast
+C00160,2024-10-09,Loyalty,Silver,West
+C00161,2024-10-25,Search,Silver,Midwest
+C00162,2025-05-11,Email,None,Midwest
+C00163,2025-05-26,Search,Gold,West
+C00164,2024-08-20,Loyalty,Silver,Southeast
+C00165,2024-11-05,Loyalty,Silver,Midwest
+C00166,2024-07-22,Organic,Silver,Northeast
+C00167,2024-11-20,Organic,None,Southeast
+C00168,2025-03-04,Email,Member,West
+C00169,2025-01-25,Paid Social,Gold,Northeast
+C00170,2024-04-17,Email,Gold,Southeast
+C00171,2024-08-04,Paid Social,Silver,West
+C00172,2024-12-09,Search,Gold,Midwest
+C00173,2024-08-28,Paid Social,Silver,Midwest
+C00174,2024-07-07,Email,Member,Midwest
+C00175,2024-05-01,Paid Social,Member,Southeast
+C00176,2024-06-19,Paid Social,Silver,Midwest
+C00177,2024-04-21,Paid Social,Silver,Southeast
+C00178,2024-09-01,Loyalty,None,Southeast
+C00179,2024-07-19,Loyalty,None,Midwest
+C00180,2025-02-21,Organic,Gold,Northeast
+C00181,2025-05-21,Loyalty,Silver,West
+C00182,2024-11-01,Search,Member,Northeast
+C00183,2024-07-08,Organic,Gold,Northeast
+C00184,2025-04-25,Loyalty,Gold,Northeast
+C00185,2024-12-21,Paid Social,None,Southeast
+C00186,2024-05-16,Paid Social,Silver,Northeast
+C00187,2024-07-06,Loyalty,Gold,Southeast
+C00188,2025-04-02,Search,Gold,West
+C00189,2024-07-31,Organic,Gold,Midwest
+C00190,2024-12-17,Paid Social,None,Southeast
+C00191,2025-01-15,Loyalty,None,Southeast
+C00192,2024-07-01,Loyalty,None,Southeast
+C00193,2024-03-02,Email,Gold,Midwest
+C00194,2024-03-17,Email,Silver,West
+C00195,2024-04-06,Paid Social,Silver,Southeast
+C00196,2024-10-04,Loyalty,Member,Southeast
+C00197,2025-06-09,Email,Member,Northeast
+C00198,2024-03-31,Loyalty,Silver,Midwest
+C00199,2024-10-11,Loyalty,Silver,West
+C00200,2025-06-26,Email,Gold,West
+C00201,2024-04-11,Search,Gold,Midwest
+C00202,2025-01-04,Email,None,Southeast
+C00203,2025-07-06,Paid Social,None,Midwest
+C00204,2024-12-21,Loyalty,Member,West
+C00205,2024-11-21,Paid Social,Silver,Southeast
+C00206,2024-12-25,Search,Gold,Northeast
+C00207,2024-10-27,Email,Silver,Midwest
+C00208,2025-02-07,Loyalty,Member,Midwest
+C00209,2024-09-27,Paid Social,Silver,West
+C00210,2025-04-21,Paid Social,None,West
+C00211,2024-04-15,Email,Silver,Northeast
+C00212,2025-07-10,Paid Social,None,West
+C00213,2024-09-28,Loyalty,Silver,West
+C00214,2025-01-15,Search,None,Southeast
+C00215,2024-07-15,Search,Silver,West
+C00216,2025-05-25,Paid Social,None,Northeast
+C00217,2025-07-12,Paid Social,Member,Southeast
+C00218,2024-08-07,Search,Gold,Northeast
+C00219,2024-06-24,Organic,None,West
+C00220,2025-06-28,Loyalty,Member,West
+C00221,2025-06-21,Paid Social,Silver,West
+C00222,2025-05-02,Search,Gold,Southeast
+C00223,2024-10-20,Search,Gold,Southeast
+C00224,2025-06-15,Search,Member,Northeast
+C00225,2024-07-20,Paid Social,Gold,Midwest
+C00226,2025-06-22,Paid Social,Silver,Northeast
+C00227,2024-07-23,Paid Social,Gold,Southeast
+C00228,2024-10-15,Search,Silver,Midwest
+C00229,2024-12-08,Paid Social,Gold,West
+C00230,2025-06-21,Email,Member,Southeast
+C00231,2024-12-18,Email,Gold,Northeast
+C00232,2024-08-10,Paid Social,Gold,West
+C00233,2025-02-03,Paid Social,Member,West
+C00234,2025-07-07,Loyalty,Silver,Northeast
+C00235,2025-05-22,Paid Social,None,West
+C00236,2024-03-08,Paid Social,Gold,Southeast
+C00237,2024-04-08,Search,Silver,Midwest
+C00238,2025-01-14,Paid Social,None,Midwest
+C00239,2025-05-11,Paid Social,Gold,Midwest
+C00240,2025-01-15,Paid Social,Gold,Northeast
+C00241,2025-01-11,Loyalty,Silver,Southeast
+C00242,2025-03-18,Loyalty,None,Northeast
+C00243,2024-10-14,Loyalty,Silver,Northeast
+C00244,2024-03-24,Email,None,Midwest
+C00245,2024-08-31,Email,Member,Southeast
+C00246,2024-11-27,Email,Member,Southeast
+C00247,2024-05-29,Loyalty,Gold,Southeast
+C00248,2024-11-10,Organic,Member,Southeast
+C00249,2024-10-23,Paid Social,Gold,Midwest
+C00250,2025-02-05,Loyalty,Gold,Midwest
+C00251,2025-02-10,Search,None,West
+C00252,2025-06-27,Email,Silver,West
+C00253,2025-02-17,Email,Silver,Southeast
+C00254,2024-09-13,Organic,None,Southeast
+C00255,2024-09-12,Search,Silver,Midwest
+C00256,2024-03-12,Organic,Gold,Midwest
+C00257,2024-03-05,Search,None,West
+C00258,2025-05-01,Organic,Silver,Southeast
+C00259,2025-01-05,Paid Social,Member,Southeast
+C00260,2025-01-12,Email,Member,Northeast
+C00261,2025-06-06,Paid Social,None,Midwest
+C00262,2025-04-08,Search,Silver,Southeast
+C00263,2024-04-16,Organic,Silver,West
+C00264,2024-05-29,Loyalty,Silver,Midwest
+C00265,2025-04-30,Loyalty,Gold,Midwest
+C00266,2025-03-18,Organic,None,West
+C00267,2025-07-07,Loyalty,Member,West
+C00268,2025-07-09,Paid Social,Silver,Northeast
+C00269,2025-04-09,Email,Silver,Northeast
+C00270,2024-10-19,Email,Silver,West
+C00271,2025-04-26,Paid Social,Silver,Northeast
+C00272,2025-02-09,Email,None,Midwest
+C00273,2025-06-12,Paid Social,None,West
+C00274,2025-06-09,Paid Social,Gold,Northeast
+C00275,2024-05-11,Loyalty,None,Midwest
+C00276,2024-11-08,Loyalty,Member,Southeast
+C00277,2024-09-15,Search,Gold,Southeast
+C00278,2025-05-28,Email,None,West
+C00279,2025-01-10,Email,Silver,Northeast
+C00280,2025-02-17,Email,Gold,West
+C00281,2025-06-30,Email,Silver,Northeast
+C00282,2025-02-15,Email,Silver,Northeast
+C00283,2024-09-20,Email,None,West
+C00284,2024-04-16,Paid Social,None,Northeast
+C00285,2025-04-07,Email,Member,Southeast
+C00286,2024-04-05,Paid Social,Member,Southeast
+C00287,2025-04-21,Organic,Silver,Southeast
+C00288,2025-04-08,Organic,None,Midwest
+C00289,2025-05-14,Organic,Member,Midwest
+C00290,2025-04-13,Loyalty,None,Southeast
+C00291,2024-03-08,Email,Member,Midwest
+C00292,2024-03-09,Loyalty,None,Southeast
+C00293,2025-03-15,Search,None,Northeast
+C00294,2024-10-30,Search,Silver,Northeast
+C00295,2024-10-18,Search,None,Midwest
+C00296,2024-10-21,Paid Social,None,Northeast
+C00297,2024-11-01,Paid Social,Gold,Northeast
+C00298,2024-11-07,Paid Social,Gold,Northeast
+C00299,2025-06-04,Loyalty,Member,Northeast
+C00300,2024-05-04,Email,Silver,West
