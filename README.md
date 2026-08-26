@@ -2,14 +2,9 @@
 
 **Portfolio Project | Data Analytics | SQL + Power BI + Excel**
 
-**LinkedIn:** https://www.linkedin.com/in/saisrinivas-kalari/
-
 End-to-end analytics engagement for a national multi-brand apparel retailer (180+ stores + e-commerce). The project delivered a governed reporting layer and interactive dashboards that reduced manual reporting effort, improved visibility into regional performance gaps, and supported marketing budget and inventory decisions.
 
 **Repo:** https://github.com/saisrinivaskalari6802/regional-retail-performance-optimization  
-**LinkedIn post (copy/paste):** [LINKEDIN.md](./LINKEDIN.md)  
-**How to add this on LinkedIn Featured / Experience:** [HOW_TO_ADD_ON_LINKEDIN.md](./HOW_TO_ADD_ON_LINKEDIN.md)
-
 ---
 
 ## Business Context
@@ -36,8 +31,6 @@ Store-level revenue growth had slowed while marketing spend increased. Leadershi
 
 ```
 ├── README.md
-├── LINKEDIN.md
-├── HOW_TO_ADD_ON_LINKEDIN.md
 ├── LICENSE
 ├── data/sample/          # synthetic CSVs (safe to share)
 ├── docs/                 # requirements, dictionary, exec summary, resume bullets
@@ -75,7 +68,6 @@ Store-level revenue growth had slowed while marketing spend increased. Leadershi
 - Review `sql/` for the transformation and analysis logic (realistic patterns used in consulting environments).
 - See `docs/data-dictionary.md` and `docs/measure-catalog.md` for definitions.
 - `dashboard/powerbi-overview.md` describes the report pages and DAX approach.
-- Copy `LINKEDIN.md` when you publish the project on LinkedIn.
 - Load `data/sample/*.csv` to try the SQL locally.
 - Resume wording: `docs/resume-bullets.md`.
 - Dashboard images: `dashboard/slides/`.
