@@ -2,6 +2,8 @@
 
 **Portfolio Project | Data Analytics | SQL + Power BI + Excel**
 
+**LinkedIn:** https://www.linkedin.com/in/saisrinivas-kalari/
+
 End-to-end analytics engagement for a national multi-brand apparel retailer (180+ stores + e-commerce). The project delivered a governed reporting layer and interactive dashboards that reduced manual reporting effort, improved visibility into regional performance gaps, and supported marketing budget and inventory decisions.
 
 **Repo:** https://github.com/saisrinivaskalari6802/regional-retail-performance-optimization  
