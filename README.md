@@ -36,22 +36,12 @@ Store-level revenue growth had slowed while marketing spend increased. Leadershi
 ├── README.md
 ├── LINKEDIN.md
 ├── HOW_TO_ADD_ON_LINKEDIN.md
-├── docs/
-│   ├── business-requirements.md
-│   ├── data-dictionary.md
-│   ├── measure-catalog.md
-│   └── executive-summary.md
-├── sql/
-│   ├── 01_staging_extracts.sql
-│   ├── 02_data_quality_checks.sql
-│   ├── 03_star_schema_transforms.sql
-│   ├── 04_regional_performance.sql
-│   ├── 05_campaign_attribution.sql
-│   └── 06_retention_cohorts.sql
+├── LICENSE
+├── data/sample/          # synthetic CSVs (safe to share)
+├── docs/                 # requirements, dictionary, exec summary, resume bullets
+├── sql/                  # 01–07 extracts, quality, star schema, analysis
 ├── analysis/
-│   └── key-insights-notes.md
-└── dashboard/
-    └── powerbi-overview.md
+├── dashboard/            # DAX, page specs, slide images
 ```
 
 ---
@@ -84,6 +74,9 @@ Store-level revenue growth had slowed while marketing spend increased. Leadershi
 - See `docs/data-dictionary.md` and `docs/measure-catalog.md` for definitions.
 - `dashboard/powerbi-overview.md` describes the report pages and DAX approach.
 - Copy `LINKEDIN.md` when you publish the project on LinkedIn.
+- Load `data/sample/*.csv` to try the SQL locally.
+- Resume wording: `docs/resume-bullets.md`.
+- Dashboard images: `dashboard/slides/`.
 
 This repository is designed as a portfolio demonstration of end-to-end analytics work typical of a Data Analyst engagement in retail / marketing analytics.
 
